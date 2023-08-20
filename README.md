@@ -20,4 +20,7 @@ Pengenalan Logika Pemrograman (Progres 100%)
 * Gerbang Logika
 * Dasar Computational Thinking
 * Kuis Akhir
-  
+
+**19 Agustus 2023**
+
+Pengenalan Git dan GitHub (0%)
