@@ -14,3 +14,10 @@ Pengenalan Logika Pemrograman (Progres 56%)
 * Pengenalan Logika Induktif dan deduktif.
 * Logika pemrograman dasar.
   
+**18 Agustus 2023**
+
+Pengenalan Logika Pemrograman (Progres 100%)
+* Gerbang Logika
+* Dasar Computational Thinking
+* Kuis Akhir
+  
